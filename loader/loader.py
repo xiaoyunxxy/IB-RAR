@@ -8,7 +8,6 @@ import torchvision.transforms as transforms
 
 # Custom package
 from model.vgg16 import VGG16
-from model.vgg16_hsic import VGG16_HSIC
 from model.resnet import ResNet18
 from model.resnet import ResNet50
 from model.wideresnet import Wide_ResNet
