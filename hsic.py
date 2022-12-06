@@ -1,4 +1,4 @@
-# code from paper: Revisiting Hilbert-Schmidt Information Bottleneck for Adversarial Robustness
+# code from https://github.com/choasma/HSIC-bottleneck
 
 import torch
 import numpy as np
