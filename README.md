@@ -1,5 +1,5 @@
 # IB-RAR
-This is the repo for our work entitiled 'IB-RAR: Information Bottleneck as Regularizer for Adversarial Robustness'.
+This is the repo for our work entitiled `IB-RAR: Information Bottleneck as Regularizer for Adversarial Robustness`.
 
 ## Environment
 ```bash
