@@ -19,8 +19,6 @@ from datetime import datetime
 from loader.loader import dataset_loader, network_loader, attack_loader
 from loader.argument_print import argument_print
 from hsic import hsic_normalized_cca
-# from mi import MI
-from kde_torch import mi
 from misc import *
 
 
